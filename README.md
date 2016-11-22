@@ -33,8 +33,8 @@ ec2-52-210-217-33.eu-west-1.compute.amazonaws.com
 
 **Para prácticar más subi estas dos webs que tenia en un servidor en Godaddy hechas en Wordpress para probar Nginx, instalar MySql y PHP en un servidor AWS** (*Has conseguido que le pierda el miedo a AWS*)
 
-[www.sugoiuriarte.com](www.sugoiuriarte.com)
+[www.sugoiuriarte.com](http://www.sugoiuriarte.com)
 
-[www.lauragomezjudo.com](www.lauragomezjudo.com)
+[www.lauragomezjudo.com](http://www.lauragomezjudo.com)
 
 ### He aprendido un montón! Grácias!
